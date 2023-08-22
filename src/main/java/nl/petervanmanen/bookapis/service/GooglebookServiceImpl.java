@@ -4,6 +4,7 @@ import com.google.api.client.googleapis.javanet.GoogleNetHttpTransport;
 import com.google.api.client.json.jackson2.JacksonFactory;
 import com.google.api.services.books.Books;
 import com.google.api.services.books.model.Volumes;
+import lombok.NonNull;
 import lombok.extern.java.Log;
 import nl.petervanmanen.bookapis.exception.ResponseException;
 import org.springframework.http.HttpStatus;
@@ -22,7 +23,7 @@ public class GooglebookServiceImpl implements GoogleBookService {
 
     @Override
 
-    public Volumes getVolumes(String query, String language) {
+    public Volumes getVolumes(@NonNull String query, String language) {
         Books books = null;
         try {
             books = new Books.Builder(GoogleNetHttpTransport.newTrustedTransport(), JacksonFactory.getDefaultInstance(), null).setApplicationName(BOOK_API).build();
