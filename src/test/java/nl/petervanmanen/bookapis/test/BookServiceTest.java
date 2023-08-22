@@ -22,7 +22,7 @@ public class BookServiceTest {
     void shouldReturnBookList() {
         List<BookResponse> books = bookService.getBooks("java", "nl");
         assertEquals("Jeanne d'Arc. De maagd van Orleans", books.get(0).getTitle());
-        assertEquals("9788728400029", books.get(0).getISBN());
+        assertEquals("9788728400029", books.get(0).getIsbn());
         assertEquals("Mathilde", books.get(0).getAuthors().get(0));
         assertEquals("13 oktober 2022", books.get(0).getPublicatieDatum());
         assertEquals(10, books.size());
@@ -37,7 +37,7 @@ public class BookServiceTest {
     @Test
     void shouldGiveBookListWhenNoIsbn() {
         List<BookResponse> books = bookService.getBooks("banaan", "nl");
-        assertEquals("", books.get(9).getISBN());
+        assertEquals("", books.get(9).getIsbn());
     }
 
     @Test
