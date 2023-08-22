@@ -1,0 +1,899 @@
+{
+  "items": [
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE",
+        "country": "NL",
+        "embeddable": true,
+        "epub": {
+          "acsTokenLink": "http://books.google.nl/books/download/Heerlijke_rauwe_voedsel_recepten-sample-epub.acsm?id=jnWdEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api",
+          "isAvailable": true
+        },
+        "pdf": {
+          "acsTokenLink": "http://books.google.nl/books/download/Heerlijke_rauwe_voedsel_recepten-sample-pdf.acsm?id=jnWdEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api",
+          "isAvailable": true
+        },
+        "publicDomain": false,
+        "quoteSharingAllowed": false,
+        "textToSpeechPermission": "ALLOWED",
+        "viewability": "PARTIAL",
+        "webReaderLink": "http://play.google.com/books/reader?id=jnWdEAAAQBAJ&hl=&source=gbs_api"
+      },
+      "etag": "GMu/W2yUPY4",
+      "id": "jnWdEAAAQBAJ",
+      "kind": "books#volume",
+      "saleInfo": {
+        "buyLink": "https://play.google.com/store/books/details?id=jnWdEAAAQBAJ&rdid=book-jnWdEAAAQBAJ&rdot=1&source=gbs_api",
+        "country": "NL",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.99,
+          "currencyCode": "EUR"
+        },
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4990000.0,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 4990000.0,
+              "currencyCode": "EUR"
+            }
+          }
+        ],
+        "retailPrice": {
+          "amount": 4.99,
+          "currencyCode": "EUR"
+        },
+        "saleability": "FOR_SALE"
+      },
+      "searchInfo": {
+        "textSnippet": "54 heerlijke rauwe voedsel ideeën voor elke dag."
+      },
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jnWdEAAAQBAJ",
+      "volumeInfo": {
+        "allowAnonLogging": false,
+        "authors": [
+          "Mattis Lundqvist"
+        ],
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=jnWdEAAAQBAJ",
+        "categories": [
+          "Cooking"
+        ],
+        "contentVersion": "1.1.1.0.preview.3",
+        "description": "54 heerlijke rauwe voedsel ideeën voor elke dag. Van raw food donuts met sinaasappel- en gemberglazuur tot banaan-, ahorn- en walnootijs... altijd een perfect gevormde traktatie. 54x heerlijke rauwkost ideeën.... Wat dacht je van abrikozen gevuld met chevre en cashewnoten? Wil je een rucola en erwten salade? Op zoek naar heerlijke dessert ideeën? Wordt het een verfrissende aardbeien kokos smoothie of een rauwkostsalade met avocado, maïs en bonen? ...of alleen chocoladekoekjes voor de snackliefhebbers? Ga nu aan de slag en tover heerlijke gerechten op tafel met rauwe groenten.",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jnWdEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jnWdEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "industryIdentifiers": [
+          {
+            "identifier": "9783347769946",
+            "type": "ISBN_13"
+          },
+          {
+            "identifier": "3347769945",
+            "type": "ISBN_10"
+          }
+        ],
+        "infoLink": "https://play.google.com/store/books/details?id=jnWdEAAAQBAJ&source=gbs_api",
+        "language": "nl",
+        "maturityRating": "NOT_MATURE",
+        "pageCount": 82,
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.nl/books?id=jnWdEAAAQBAJ&printsec=frontcover&dq=banaan&hl=&cd=1&source=gbs_api",
+        "printType": "BOOK",
+        "publishedDate": "1 april",
+        "publisher": "tredition",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "subtitle": "Van heerlijke salades en hartig gebak tot fruitige smoothies",
+        "title": "Heerlijke rauwe voedsel recepten"
+      }
+    },
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE",
+        "country": "NL",
+        "embeddable": true,
+        "epub": {
+          "acsTokenLink": "http://books.google.nl/books/download/Recepten_met_weinig_zuur_voor_licht_maag-sample-epub.acsm?id=yaqaEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api",
+          "isAvailable": true
+        },
+        "pdf": {
+          "acsTokenLink": "http://books.google.nl/books/download/Recepten_met_weinig_zuur_voor_licht_maag-sample-pdf.acsm?id=yaqaEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api",
+          "isAvailable": true
+        },
+        "publicDomain": false,
+        "quoteSharingAllowed": false,
+        "textToSpeechPermission": "ALLOWED",
+        "viewability": "PARTIAL",
+        "webReaderLink": "http://play.google.com/books/reader?id=yaqaEAAAQBAJ&hl=&source=gbs_api"
+      },
+      "etag": "I4f2yoULp9A",
+      "id": "yaqaEAAAQBAJ",
+      "kind": "books#volume",
+      "saleInfo": {
+        "buyLink": "https://play.google.com/store/books/details?id=yaqaEAAAQBAJ&rdid=book-yaqaEAAAQBAJ&rdot=1&source=gbs_api",
+        "country": "NL",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.99,
+          "currencyCode": "EUR"
+        },
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4990000.0,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 4990000.0,
+              "currencyCode": "EUR"
+            }
+          }
+        ],
+        "retailPrice": {
+          "amount": 4.99,
+          "currencyCode": "EUR"
+        },
+        "saleability": "FOR_SALE"
+      },
+      "searchInfo": {
+        "textSnippet": "100% Recepten - 0% praten - De Olsson Belofte Als je van heerlijke recepten houdt, ben je hier aan het juiste adres - geen praatjes, gewoon heerlijke gerechten - natuurlijk met voedingsinformatie en uitleg."
+      },
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yaqaEAAAQBAJ",
+      "volumeInfo": {
+        "allowAnonLogging": false,
+        "authors": [
+          "Astrid Olsson",
+          "Mattis Lundqvist"
+        ],
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yaqaEAAAQBAJ",
+        "categories": [
+          "Cooking"
+        ],
+        "contentVersion": "1.1.1.0.preview.3",
+        "description": "100% Recepten - 0% praten - De Olsson Belofte Als je van heerlijke recepten houdt, ben je hier aan het juiste adres - geen praatjes, gewoon heerlijke gerechten - natuurlijk met voedingsinformatie en uitleg. Deze receptenverzameling bevat onder andere: Appel-pompoensoep Aubergines uit de wok Linzensoep Zalm met broccoli en rijst Paleo zoete aardappelen met boerenkool salade Quinoa met wortelen en garnalen Veganistische Chinese pap Gebakken banaan Gegrilde Alaska zalm Gamba's met wortel-kokos-gember quinoa ...",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yaqaEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yaqaEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "industryIdentifiers": [
+          {
+            "identifier": "9783347735491",
+            "type": "ISBN_13"
+          },
+          {
+            "identifier": "3347735498",
+            "type": "ISBN_10"
+          }
+        ],
+        "infoLink": "https://play.google.com/store/books/details?id=yaqaEAAAQBAJ&source=gbs_api",
+        "language": "nl",
+        "maturityRating": "NOT_MATURE",
+        "pageCount": 181,
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.nl/books?id=yaqaEAAAQBAJ&pg=PP1&dq=banaan&hl=&cd=2&source=gbs_api",
+        "printType": "BOOK",
+        "publishedDate": "2022-09-23",
+        "publisher": "tredition",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "subtitle": "Meer dan 100 maagvriendelijke gerechten voor reflux",
+        "title": "Recepten met weinig zuur voor licht maagzuur"
+      }
+    },
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE",
+        "country": "NL",
+        "embeddable": true,
+        "epub": {
+          "acsTokenLink": "http://books.google.nl/books/download/Het_verlangen_van_Lucy_Hart-sample-epub.acsm?id=i3SzEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api",
+          "isAvailable": true
+        },
+        "pdf": {
+          "acsTokenLink": "http://books.google.nl/books/download/Het_verlangen_van_Lucy_Hart-sample-pdf.acsm?id=i3SzEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api",
+          "isAvailable": true
+        },
+        "publicDomain": false,
+        "quoteSharingAllowed": false,
+        "textToSpeechPermission": "ALLOWED",
+        "viewability": "PARTIAL",
+        "webReaderLink": "http://play.google.com/books/reader?id=i3SzEAAAQBAJ&hl=&source=gbs_api"
+      },
+      "etag": "JLdbzWMp52o",
+      "id": "i3SzEAAAQBAJ",
+      "kind": "books#volume",
+      "saleInfo": {
+        "buyLink": "https://play.google.com/store/books/details?id=i3SzEAAAQBAJ&rdid=book-i3SzEAAAQBAJ&rdot=1&source=gbs_api",
+        "country": "NL",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "EUR"
+        },
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000.0,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000.0,
+              "currencyCode": "EUR"
+            }
+          }
+        ],
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "EUR"
+        },
+        "saleability": "FOR_SALE"
+      },
+      "searchInfo": {
+        "textSnippet": "In plaats daarvan verwijderde ze met alle waardigheid waarover ze nog beschikte de papieren <b>banaan</b> uit haar haar. &#39;De vraag is, Christopher, waarom jíj geen papieren <b>banaan</b> in je haar hebt.&#39; Ze deed haar best er niet aan te denken&nbsp;..."
+      },
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/i3SzEAAAQBAJ",
+      "volumeInfo": {
+        "allowAnonLogging": false,
+        "authors": [
+          "Meg Shaffer"
+        ],
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=i3SzEAAAQBAJ",
+        "categories": [
+          "Fiction"
+        ],
+        "contentVersion": "1.3.3.0.preview.3",
+        "description": "De ultieme roman voor boekenliefhebbers, een Willie Wonka voor volwassenen. Reis mee met Lucy naar Clock Island en geniet van deze heerlijke feelgoodroman! Lucy Hart groeide op in een liefdeloos gezin, en vluchtte het liefst weg in haar favoriete boeken. Vooral de Klokeiland-serie van auteur Jack Masterson was haar tweede thuis. Nu is ze 26 en werkt ze als onderwijsassistent. Haar grootste wens is de 7-jarige Christopher, een jongetje dat sinds de dood van zijn ouders van pleeggezin naar pleeggezin wordt geschoven, te adopteren. Maar omdat ze hem geen financiële zekerheid kan bieden, komt ze niet in aanmerking. Dan schrijft haar jeugdheld Jack Masterson een wedstrijd uit. De prijs zou haar in staat stellen om Christopher te adopteren. Dus Lucy reist naar Klokeiland, waar ze auteur Jack, illustrator Hugo Reese en haar drie tegenstanders treft. Ondertussen beraamt Jack de ultieme twist in zijn verhaal – een twist die levens zou kunnen veranderen...",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=i3SzEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=i3SzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "industryIdentifiers": [
+          {
+            "identifier": "9789026164538",
+            "type": "ISBN_13"
+          },
+          {
+            "identifier": "902616453X",
+            "type": "ISBN_10"
+          }
+        ],
+        "infoLink": "https://play.google.com/store/books/details?id=i3SzEAAAQBAJ&source=gbs_api",
+        "language": "nl",
+        "maturityRating": "NOT_MATURE",
+        "pageCount": 271,
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.nl/books?id=i3SzEAAAQBAJ&pg=PT13&dq=banaan&hl=&cd=3&source=gbs_api",
+        "printType": "BOOK",
+        "publishedDate": "2023-08-15",
+        "publisher": "De Fontein Romans & Spanning",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "title": "Het verlangen van Lucy Hart"
+      }
+    },
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE",
+        "country": "NL",
+        "embeddable": true,
+        "epub": {
+          "acsTokenLink": "http://books.google.nl/books/download/Fontana_Banana-sample-epub.acsm?id=tG5jEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api",
+          "isAvailable": true
+        },
+        "pdf": {
+          "acsTokenLink": "http://books.google.nl/books/download/Fontana_Banana-sample-pdf.acsm?id=tG5jEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api",
+          "isAvailable": true
+        },
+        "publicDomain": false,
+        "quoteSharingAllowed": false,
+        "textToSpeechPermission": "ALLOWED",
+        "viewability": "PARTIAL",
+        "webReaderLink": "http://play.google.com/books/reader?id=tG5jEAAAQBAJ&hl=&source=gbs_api"
+      },
+      "etag": "NbQMTnd0EVc",
+      "id": "tG5jEAAAQBAJ",
+      "kind": "books#volume",
+      "saleInfo": {
+        "buyLink": "https://play.google.com/store/books/details?id=tG5jEAAAQBAJ&rdid=book-tG5jEAAAQBAJ&rdot=1&source=gbs_api",
+        "country": "NL",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "EUR"
+        },
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000.0,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000.0,
+              "currencyCode": "EUR"
+            }
+          }
+        ],
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "EUR"
+        },
+        "saleability": "FOR_SALE"
+      },
+      "searchInfo": {
+        "textSnippet": "Avontuurlijk kinderboek van bestsellerauteur Judith Visser."
+      },
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tG5jEAAAQBAJ",
+      "volumeInfo": {
+        "allowAnonLogging": false,
+        "authors": [
+          "Judith Visser"
+        ],
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=tG5jEAAAQBAJ",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "contentVersion": "1.10.8.0.preview.3",
+        "description": "Avontuurlijk kinderboek van bestsellerauteur Judith Visser. In het slaperige stranddorpje Zanderije woont de kleine Shelly. Voor haar achtste verjaardag wil ze maar één ding: een eigen hond! Maar haar moeder vindt dat maar niks, helaas… Op een dag wordt bij de magische fontein op het dorpsplein een puppy gevonden: Fontana. Al snel komt Shelly erachter dat Fontana nog bijzonderder is dan ze al dacht. Als hij een banaan heeft gegeten, kan hij namelijk praten. En vliegen! Shelly is de enige die dit weet. Want zoiets bijzonders kun je maar beter geheimhouden, toch? Wanneer Shelly samen met Fontana op boevenjacht gaat, lijkt het erop dat ze zijn superkrachten niet langer verborgen kunnen houden... Hoe zal dit avontuur aflopen? Het boek is geïllustreerd door Nouchka van der Est.",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tG5jEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tG5jEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "industryIdentifiers": [
+          {
+            "identifier": "9789402766271",
+            "type": "ISBN_13"
+          },
+          {
+            "identifier": "9402766278",
+            "type": "ISBN_10"
+          }
+        ],
+        "infoLink": "https://play.google.com/store/books/details?id=tG5jEAAAQBAJ&source=gbs_api",
+        "language": "nl",
+        "maturityRating": "NOT_MATURE",
+        "pageCount": 103,
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.nl/books?id=tG5jEAAAQBAJ&printsec=frontcover&dq=banaan&hl=&cd=4&source=gbs_api",
+        "printType": "BOOK",
+        "publishedDate": "2022-08-24",
+        "publisher": "HarperCollins",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "subtitle": "Een superheld op vier poten",
+        "title": "Fontana Banana"
+      }
+    },
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE",
+        "country": "NL",
+        "embeddable": true,
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "publicDomain": false,
+        "quoteSharingAllowed": false,
+        "textToSpeechPermission": "ALLOWED",
+        "viewability": "PARTIAL",
+        "webReaderLink": "http://play.google.com/books/reader?id=UCtuEAAAQBAJ&hl=&source=gbs_api"
+      },
+      "etag": "eFAIr+0g2U4",
+      "id": "UCtuEAAAQBAJ",
+      "kind": "books#volume",
+      "saleInfo": {
+        "buyLink": "https://play.google.com/store/books/details?id=UCtuEAAAQBAJ&rdid=book-UCtuEAAAQBAJ&rdot=1&source=gbs_api",
+        "country": "NL",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 12.99,
+          "currencyCode": "EUR"
+        },
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1.299E7,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 1.299E7,
+              "currencyCode": "EUR"
+            }
+          }
+        ],
+        "retailPrice": {
+          "amount": 12.99,
+          "currencyCode": "EUR"
+        },
+        "saleability": "FOR_SALE"
+      },
+      "searchInfo": {
+        "textSnippet": "Of met de vriend die mijn bevroren banaan uren onder zijn jas droeg, zodat ik hem toch kon pellen? In Een Rus als ik neemt Eline Helmer je mee naar het alledaagse Rusland."
+      },
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UCtuEAAAQBAJ",
+      "volumeInfo": {
+        "allowAnonLogging": false,
+        "authors": [
+          "Eline Helmer"
+        ],
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=UCtuEAAAQBAJ",
+        "categories": [
+          "Fiction"
+        ],
+        "contentVersion": "0.1.2.0.preview.3",
+        "description": "Eline Helmer is 22 als ze naar de provinciestad Pskov verhuist en vol tegen de Russische realiteit op loopt. Maandenlang in het donker leven omdat het minder dan de helft van de dag licht is. Duizelig zijn tijdens het sporten omdat je lichaam protesteert tegen het enige dieet dat je je met je nieuwe salaris kunt veroorloven. Omringd door Russen die je zonder gemeenschappelijke taal niet écht kunt leren kennen. (br/> Vijf jaar later woont ze nog steeds in Rusland, spreekt ze de taal vloeiend en vraagt ze zich af: wat als iedereen in Nederland een praatje kon maken met de conciërge van de staatsuniversiteit van Pskov, die een sjaal voor mijn moeder heeft gehaakt? Kennis kon maken met de collega die wekelijks een plastic tas met groenten uit haar moestuin voor mijn deur zet? Of met de vriend die mijn bevroren banaan uren onder zijn jas droeg, zodat ik hem toch kon pellen? In Een Rus als ik neemt Eline Helmer je mee naar het alledaagse Rusland. Aan de hand van dagboekaantekeningen en tientallen woordelijk opgeschreven gesprekken volg je haar van het Pskovse platteland naar het hart van Sint-Petersburg, van het onverwachte naar het volstrekt gewone, van een van hen naar een van ons. Eline Helmer (1993) is antropoloog. Na een master in Russische en Oost-Europese studies aan de universiteit van Oxford promoveerde ze in 2021 aan de school voor Slavische en Oost-Europese studies van University College London. De afgelopen jaren woonde ze achtereenvolgens in Pskov en Sint-Petersburg, waar ze als docent op de universiteit werkte.",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UCtuEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UCtuEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "industryIdentifiers": [
+          {
+            "identifier": "9789044649635",
+            "type": "ISBN_13"
+          },
+          {
+            "identifier": "9044649639",
+            "type": "ISBN_10"
+          }
+        ],
+        "infoLink": "https://play.google.com/store/books/details?id=UCtuEAAAQBAJ&source=gbs_api",
+        "language": "nl",
+        "maturityRating": "NOT_MATURE",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.nl/books?id=UCtuEAAAQBAJ&printsec=frontcover&dq=banaan&hl=&cd=5&source=gbs_api",
+        "printType": "BOOK",
+        "publishedDate": "2022-05-05",
+        "publisher": "Prometheus",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "subtitle": "Ontmoetingen in alledaags Rusland",
+        "title": "Een Rus als ik"
+      }
+    },
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE",
+        "country": "NL",
+        "embeddable": false,
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "publicDomain": false,
+        "quoteSharingAllowed": false,
+        "textToSpeechPermission": "ALLOWED",
+        "viewability": "NO_PAGES",
+        "webReaderLink": "http://play.google.com/books/reader?id=EQF-zwEACAAJ&hl=&source=gbs_api"
+      },
+      "etag": "lbMK0OYx0Rk",
+      "id": "EQF-zwEACAAJ",
+      "kind": "books#volume",
+      "saleInfo": {
+        "country": "NL",
+        "isEbook": false,
+        "saleability": "NOT_FOR_SALE"
+      },
+      "searchInfo": {
+        "textSnippet": "Leer negen soorten groenten en fruit kennen via Lola Banaan, Tilly Wortel en vele anderen. Prentenboek met tekst op rijm en kleurrijke illustraties. Vanaf ca. 1,5 jaar."
+      },
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EQF-zwEACAAJ",
+      "volumeInfo": {
+        "allowAnonLogging": false,
+        "authors": [
+          "Höngry"
+        ],
+        "canonicalVolumeLink": "https://books.google.com/books/about/Gaan_met_die_banaan.html?hl=&id=EQF-zwEACAAJ",
+        "contentVersion": "preview-1.0.0",
+        "description": "Leer negen soorten groenten en fruit kennen via Lola Banaan, Tilly Wortel en vele anderen. Prentenboek met tekst op rijm en kleurrijke illustraties. Vanaf ca. 1,5 jaar.",
+        "industryIdentifiers": [
+          {
+            "identifier": "9464519037",
+            "type": "ISBN_10"
+          },
+          {
+            "identifier": "9789464519037",
+            "type": "ISBN_13"
+          }
+        ],
+        "infoLink": "http://books.google.nl/books?id=EQF-zwEACAAJ&dq=banaan&hl=&source=gbs_api",
+        "language": "nl",
+        "maturityRating": "NOT_MATURE",
+        "pageCount": 0,
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.nl/books?id=EQF-zwEACAAJ&dq=banaan&hl=&cd=6&source=gbs_api",
+        "printType": "BOOK",
+        "publishedDate": "2022",
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "title": "Gaan met die banaan"
+      }
+    },
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE",
+        "country": "NL",
+        "embeddable": true,
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "publicDomain": false,
+        "quoteSharingAllowed": false,
+        "textToSpeechPermission": "ALLOWED",
+        "viewability": "PARTIAL",
+        "webReaderLink": "http://play.google.com/books/reader?id=_yTOEAAAQBAJ&hl=&source=gbs_api"
+      },
+      "etag": "/rIVThdw63w",
+      "id": "_yTOEAAAQBAJ",
+      "kind": "books#volume",
+      "saleInfo": {
+        "buyLink": "https://play.google.com/store/books/details?id=_yTOEAAAQBAJ&rdid=book-_yTOEAAAQBAJ&rdot=1&source=gbs_api",
+        "country": "NL",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0.99,
+          "currencyCode": "EUR"
+        },
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 990000.0,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 990000.0,
+              "currencyCode": "EUR"
+            }
+          }
+        ],
+        "retailPrice": {
+          "amount": 0.99,
+          "currencyCode": "EUR"
+        },
+        "saleability": "FOR_SALE"
+      },
+      "searchInfo": {
+        "textSnippet": "<b>Banaan</b>. Chocolade. Noot. Cupcakes. Ingrediënten: 150 gram meel 1 theelepel bakpoeder 1⁄4 theelepel zout 2 rijpe <b>bananen</b>, gepureerd 100 gram suiker 2 eieren 120 ml melk 60 g gesmolten boter 30 gram cacao 50 g gehakte noten (bijv."
+      },
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_yTOEAAAQBAJ",
+      "volumeInfo": {
+        "allowAnonLogging": false,
+        "authors": [
+          "Marc Schommertz"
+        ],
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_yTOEAAAQBAJ",
+        "categories": [
+          "Cooking"
+        ],
+        "contentVersion": "0.1.1.0.preview.3",
+        "description": "Welkom bij mijn boek People's Recepten Grillen en BBQ - Cupcakes van de grill. Als gepassioneerd hobbykok en barbecueliefhebber ben ik altijd op zoek geweest naar nieuwe en creatieve manieren om een ​​revolutie teweeg te brengen in barbecues. Toen kwam ik op een uniek idee dat ik graag met jullie wil delen: gegrilde cupcakes. Cupcakes zijn ongetwijfeld een van de meest populaire desserts, maar we hebben ze meestal in de oven gebakken. Dus waarom zou u de barbecue niet gebruiken om deze zoete lekkernij naar een hoger niveau te tillen? Gegrilde cupcakes zijn een spannend avontuur dat de werelden van bakken en grillen heerlijk combineert. In dit boek vind je 35 verleidelijke recepten die je een veelheid aan smaakervaringen zullen bieden. Van klassieke chocoladecupcakes tot exotische combinaties als mango en passievrucht of pistache en rozenwater - er is voor elk wat wils. Elk recept is zorgvuldig getest om ervoor te zorgen dat u de beste resultaten krijgt op uw barbecue.",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_yTOEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_yTOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "industryIdentifiers": [
+          {
+            "identifier": "9783757573485",
+            "type": "ISBN_13"
+          },
+          {
+            "identifier": "375757348X",
+            "type": "ISBN_10"
+          }
+        ],
+        "infoLink": "https://play.google.com/store/books/details?id=_yTOEAAAQBAJ&source=gbs_api",
+        "language": "nl",
+        "maturityRating": "NOT_MATURE",
+        "pageCount": 100,
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.nl/books?id=_yTOEAAAQBAJ&pg=PT24&dq=banaan&hl=&cd=7&source=gbs_api",
+        "printType": "BOOK",
+        "publishedDate": "2023-07-30",
+        "publisher": "epubli",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "subtitle": "35 geweldige cupcake-recepten van de grill",
+        "title": "Volksrecepten grillen en BBQ - cupcakes van de grill"
+      }
+    },
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE",
+        "country": "NL",
+        "embeddable": true,
+        "epub": {
+          "acsTokenLink": "http://books.google.nl/books/download/Hart-sample-epub.acsm?id=1gWvEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api",
+          "isAvailable": true
+        },
+        "pdf": {
+          "acsTokenLink": "http://books.google.nl/books/download/Hart-sample-pdf.acsm?id=1gWvEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api",
+          "isAvailable": true
+        },
+        "publicDomain": false,
+        "quoteSharingAllowed": false,
+        "textToSpeechPermission": "ALLOWED",
+        "viewability": "PARTIAL",
+        "webReaderLink": "http://play.google.com/books/reader?id=1gWvEAAAQBAJ&hl=&source=gbs_api"
+      },
+      "etag": "vUXgIHblau4",
+      "id": "1gWvEAAAQBAJ",
+      "kind": "books#volume",
+      "saleInfo": {
+        "buyLink": "https://play.google.com/store/books/details?id=1gWvEAAAQBAJ&rdid=book-1gWvEAAAQBAJ&rdot=1&source=gbs_api",
+        "country": "NL",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.99,
+          "currencyCode": "EUR"
+        },
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1.499E7,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 1.499E7,
+              "currencyCode": "EUR"
+            }
+          }
+        ],
+        "retailPrice": {
+          "amount": 14.99,
+          "currencyCode": "EUR"
+        },
+        "saleability": "FOR_SALE"
+      },
+      "searchInfo": {
+        "textSnippet": "FLUFFY HAVERPANNENKOEKJES MET <b>BANAAN</b> EN BLAUWE BESSEN Deze pannenkoekjes vormen het perfecte weekeinde ontbijt . Het tot schuim geklopte eiwit maakt ze een beetje fluffy en daarom extra feestelijk . De bessen en <b>banaan</b> zorgen eigenlijk&nbsp;..."
+      },
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1gWvEAAAQBAJ",
+      "volumeInfo": {
+        "allowAnonLogging": false,
+        "authors": [
+          "Janneke Vreugdenhil"
+        ],
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=1gWvEAAAQBAJ",
+        "categories": [
+          "Cooking"
+        ],
+        "contentVersion": "1.40.29.0.preview.3",
+        "description": "75 recepten voor een gezond hart",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1gWvEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1gWvEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "industryIdentifiers": [
+          {
+            "identifier": "9789048867967",
+            "type": "ISBN_13"
+          },
+          {
+            "identifier": "9048867967",
+            "type": "ISBN_10"
+          }
+        ],
+        "infoLink": "https://play.google.com/store/books/details?id=1gWvEAAAQBAJ&source=gbs_api",
+        "language": "nl",
+        "maturityRating": "NOT_MATURE",
+        "pageCount": 221,
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.nl/books?id=1gWvEAAAQBAJ&pg=PA91&dq=banaan&hl=&cd=8&source=gbs_api",
+        "printType": "BOOK",
+        "publishedDate": "2023-06-28",
+        "publisher": "Overamstel Uitgevers",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "subtitle": "Eten als medicijn",
+        "title": "Hart"
+      }
+    },
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE",
+        "country": "NL",
+        "embeddable": true,
+        "epub": {
+          "acsTokenLink": "http://books.google.nl/books/download/Het_waanzinnige_moppenboek-sample-epub.acsm?id=Af4uEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api",
+          "isAvailable": true
+        },
+        "pdf": {
+          "acsTokenLink": "http://books.google.nl/books/download/Het_waanzinnige_moppenboek-sample-pdf.acsm?id=Af4uEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api",
+          "isAvailable": true
+        },
+        "publicDomain": false,
+        "quoteSharingAllowed": false,
+        "textToSpeechPermission": "ALLOWED",
+        "viewability": "PARTIAL",
+        "webReaderLink": "http://play.google.com/books/reader?id=Af4uEAAAQBAJ&hl=&source=gbs_api"
+      },
+      "etag": "gzFBfrkcixo",
+      "id": "Af4uEAAAQBAJ",
+      "kind": "books#volume",
+      "saleInfo": {
+        "buyLink": "https://play.google.com/store/books/details?id=Af4uEAAAQBAJ&rdid=book-Af4uEAAAQBAJ&rdot=1&source=gbs_api",
+        "country": "NL",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 8.99,
+          "currencyCode": "EUR"
+        },
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 8990000.0,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 6110000.0,
+              "currencyCode": "EUR"
+            }
+          }
+        ],
+        "retailPrice": {
+          "amount": 6.11,
+          "currencyCode": "EUR"
+        },
+        "saleability": "FOR_SALE"
+      },
+      "searchInfo": {
+        "textSnippet": "Andy en Terry wonen in de waanzinnigste boomhut ter wereld."
+      },
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Af4uEAAAQBAJ",
+      "volumeInfo": {
+        "allowAnonLogging": false,
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Af4uEAAAQBAJ",
+        "categories": [
+          "Humor"
+        ],
+        "contentVersion": "1.2.2.0.preview.3",
+        "description": "Andy en Terry wonen in de waanzinnigste boomhut ter wereld. Ze houden van boeken maken en van moppen vertellen. En nu hebben ze het waanzinnigste moppenboek ter wereld gemaakt! Over katten en kippen, school en skeletten, bomen en beren, ... Moppen tot in het oneindige, perfect voor alle fans van De waanzinnige boomhut!",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Af4uEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Af4uEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "infoLink": "https://play.google.com/store/books/details?id=Af4uEAAAQBAJ&source=gbs_api",
+        "language": "nl",
+        "maturityRating": "NOT_MATURE",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.nl/books?id=Af4uEAAAQBAJ&printsec=frontcover&dq=banaan&hl=&cd=9&source=gbs_api",
+        "printType": "BOOK",
+        "publishedDate": "2021-05-29",
+        "publisher": "Lannoo Meulenhoff - Belgium",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "title": "Het waanzinnige moppenboek"
+      }
+    },
+    {
+      "accessInfo": {
+        "accessViewStatus": "NONE",
+        "country": "NL",
+        "embeddable": false,
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "publicDomain": false,
+        "quoteSharingAllowed": false,
+        "textToSpeechPermission": "ALLOWED",
+        "viewability": "NO_PAGES",
+        "webReaderLink": "http://play.google.com/books/reader?id=MliZzgEACAAJ&hl=&source=gbs_api"
+      },
+      "etag": "heThHKCzWe8",
+      "id": "MliZzgEACAAJ",
+      "kind": "books#volume",
+      "saleInfo": {
+        "country": "NL",
+        "isEbook": false,
+        "saleability": "NOT_FOR_SALE"
+      },
+      "searchInfo": {
+        "textSnippet": "Misschien denk je.. Maar bananen lopen en praten toch niet? Nou Billy wel zoals je ziet! &#39;Ik ben geen gewone banaan. Neee, ik kan de hele wereld aan!&#39;"
+      },
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MliZzgEACAAJ",
+      "volumeInfo": {
+        "allowAnonLogging": false,
+        "authors": [
+          "Rianne Plas"
+        ],
+        "averageRating": 5.0,
+        "canonicalVolumeLink": "https://books.google.com/books/about/Billy_Banaan.html?hl=&id=MliZzgEACAAJ",
+        "contentVersion": "preview-1.0.0",
+        "description": "Misschien denk je.. Maar bananen lopen en praten toch niet? Nou Billy wel zoals je ziet! 'Ik ben geen gewone banaan. Neee, ik kan de hele wereld aan!'",
+        "industryIdentifiers": [
+          {
+            "identifier": "979852158629597985215862951",
+            "type": "ISBN_27"
+          }
+        ],
+        "infoLink": "http://books.google.nl/books?id=MliZzgEACAAJ&dq=banaan&hl=&source=gbs_api",
+        "language": "nl",
+        "maturityRating": "NOT_MATURE",
+        "pageCount": 42,
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.nl/books?id=MliZzgEACAAJ&dq=banaan&hl=&cd=10&source=gbs_api",
+        "printType": "BOOK",
+        "publishedDate": "2021-06-16",
+        "ratingsCount": 1,
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "subtitle": "Kan de Hele Wereld Aan",
+        "title": "Billy Banaan"
+      }
+    }
+  ],
+  "kind": "books#volumes",
+  "totalItems": 434
+}

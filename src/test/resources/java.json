@@ -1,0 +1,921 @@
+{
+  "items": [
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE",
+        "country": "NL",
+        "embeddable": true,
+        "epub": {
+          "acsTokenLink": "http://books.google.nl/books/download/Jeanne_d_Arc_De_maagd_van_Orleans-sample-epub.acsm?id=xYeREAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api",
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "publicDomain": false,
+        "quoteSharingAllowed": false,
+        "textToSpeechPermission": "ALLOWED",
+        "viewability": "PARTIAL",
+        "webReaderLink": "http://play.google.com/books/reader?id=xYeREAAAQBAJ&hl=&source=gbs_api"
+      },
+      "etag": "hSL9193Ed7E",
+      "id": "xYeREAAAQBAJ",
+      "kind": "books#volume",
+      "saleInfo": {
+        "buyLink": "https://play.google.com/store/books/details?id=xYeREAAAQBAJ&rdid=book-xYeREAAAQBAJ&rdot=1&source=gbs_api",
+        "country": "NL",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 8.63,
+          "currencyCode": "EUR"
+        },
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 8630000.0,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 5870000.0,
+              "currencyCode": "EUR"
+            }
+          }
+        ],
+        "retailPrice": {
+          "amount": 5.87,
+          "currencyCode": "EUR"
+        },
+        "saleability": "FOR_SALE"
+      },
+      "searchInfo": {
+        "textSnippet": "In Nederland begon Nicolina haar literaire carrière onder verschillende pseudoniemen: Mathilde, Melattie van Java en het iets subtielere Melati van Java."
+      },
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xYeREAAAQBAJ",
+      "volumeInfo": {
+        "allowAnonLogging": false,
+        "authors": [
+          "Mathilde","Peter"
+        ],
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=xYeREAAAQBAJ",
+        "categories": [
+          "Fiction"
+        ],
+        "contentVersion": "1.4.3.0.preview.2",
+        "description": "Het boek 'Jeanne d'Arc. De maagd van Orleans' is een eerbetoon aan Jeanne d'Arc, een nationale heldin van Frankrijk die als jonge negentienjarige vrouw een belangrijke rol speelde in de Honderdjarige Oorlog tussen Frankrijk en Engeland. Bijna een eeuw staan het Franse en het Engelse koningshuis al tegenover elkaar, totdat in 1429 een ongeletterde vrouw zich aan het Franse hof in Orléans meldt en verkondigt dat ze door God is gezonden om het beleg van de Engelsen te beëindigen... Nicolina Maria Sloot (1853-1927) werd op 13 januari 1853 geboren in Semarang (Java, Indonesië). In 1871 verhuisde haar familie naar Nederland, waar Nicolina's vader werk vond als onderwijzer. In Nederland begon Nicolina haar literaire carrière onder verschillende pseudoniemen: Mathilde, Melattie van Java en het iets subtielere Melati van Java. Het was in die tijd uitzonderlijk om als jong katholiek meisje te publiceren waardoor zij ervoor koos om schuilnamen te gebruiken. Door de jaren heen ontwikkelde Nicolina zich tot een zeer succesvol auteur. Haar boeken waren populair: zo was in 1921 haar boek 'Hermelijn' het vaakst uitgeleende bibliotheekboek en kreeg ze als een van de eerste vrouwen het lidmaatschap tot de Maatschappij der Nederlandse Letterkunde aangeboden (1893).",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xYeREAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xYeREAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "industryIdentifiers": [
+          {
+            "identifier": "9788728400029",
+            "type": "ISBN_13"
+          },
+          {
+            "identifier": "872840002X",
+            "type": "ISBN_10"
+          }
+        ],
+        "infoLink": "https://play.google.com/store/books/details?id=xYeREAAAQBAJ&source=gbs_api",
+        "language": "nl",
+        "maturityRating": "NOT_MATURE",
+        "pageCount": 290,
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.nl/books?id=xYeREAAAQBAJ&printsec=frontcover&dq=java&hl=&cd=1&source=gbs_api",
+        "printType": "BOOK",
+        "publishedDate": "2022-10-13",
+        "publisher": "Lindhardt og Ringhof",
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "title": "Jeanne d'Arc. De maagd van Orleans"
+      }
+    },
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE",
+        "country": "NL",
+        "embeddable": true,
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "publicDomain": false,
+        "quoteSharingAllowed": false,
+        "textToSpeechPermission": "ALLOWED",
+        "viewability": "PARTIAL",
+        "webReaderLink": "http://play.google.com/books/reader?id=P_qGEAAAQBAJ&hl=&source=gbs_api"
+      },
+      "etag": "bVJtvBv1jSo",
+      "id": "P_qGEAAAQBAJ",
+      "kind": "books#volume",
+      "saleInfo": {
+        "buyLink": "https://play.google.com/store/books/details?id=P_qGEAAAQBAJ&rdid=book-P_qGEAAAQBAJ&rdot=1&source=gbs_api",
+        "country": "NL",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.99,
+          "currencyCode": "EUR"
+        },
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1.499E7,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 1.499E7,
+              "currencyCode": "EUR"
+            }
+          }
+        ],
+        "retailPrice": {
+          "amount": 14.99,
+          "currencyCode": "EUR"
+        },
+        "saleability": "FOR_SALE"
+      },
+      "searchInfo": {
+        "textSnippet": "Lawrence Osborne (1958) publiceerde al zeven zeer succesvolle romans, waaronder Het glazen Koninkrijk en Schitterende dieren. Osborne leidt een nomadenbestaan en woonde in Parijs, New York, Mexico en Istanbul."
+      },
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/P_qGEAAAQBAJ",
+      "volumeInfo": {
+        "allowAnonLogging": false,
+        "authors": [
+          "L. Osborne"
+        ],
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=P_qGEAAAQBAJ",
+        "categories": [
+          "Fiction"
+        ],
+        "contentVersion": "1.1.1.0.preview.3",
+        "description": "Het apathische leven van de uitgedoofde Britse journalist Adrian Gyle in Hongkong bestaat al ruim twintig jaar uit eenzame avonden gevuld met dumplings en thee in restaurant Fung Shing aan Java Road, de melancholiekste straat van de stad. Gedesillusioneerd ziet Gyle hoe de stad, ooit een paradijs van weelderige diners en sociale clubs, het decor wordt van geweld, nu prodemocratische demonstraties tegen de overdracht aan de Volksrepubliek China steeds heftiger worden. Op het moment dat Gyle eenmaal heeft besloten de stad te verlaten leert hij de nieuwe vriendin van een van zijn oudste vrienden kennen. Het is de intrigerende Rebecca. Door haar raakt hij betrokken bij de protesten. Als Rebecca op een dag ineens van de aardbodem verdwenen lijkt wordt in Gyle voor het eerst in lange tijd weer de journalist wakker. In deze sfeervolle en weemoedige psychologische roman vertelt Lawrence Osborne het verhaal van een zoektocht naar een verdwenen vrouw in een verdwijnende stad, van een man die gevangenzit tussen botsende culturen en van een verloren vriendschap. Lawrence Osborne (1958) publiceerde al zeven zeer succesvolle romans, waaronder Het glazen Koninkrijk en Schitterende dieren. Osborne leidt een nomadenbestaan en woonde in Parijs, New York, Mexico en Istanbul. Zijn huidige standplaats is Bangkok. Over Het glazen koninkrijk: 'In de roman Het glazen koninkrijk ontdekte ik onlangs een nieuwe Graham Greene, voor zover je hem al met iemand kunt vergelijken.' Michel Krielaars, NRC 'Het is een enorme prestatie om een roman zo schokkend te laten eindigen. De dag na lezing zul je nog steeds met ontzetting aan Sarahs lot denken.' The New York Times Book Review 'Bangkok is de eigenlijke hoofdpersoon van deze volmaakte roman. Haar inwoners zijn vervreemd van zichzelf, glanzend aan de horizon van hun eigen levens, zich voortbewegend - rusteloos, ontheemd en bang - door een stadspanorama dat meer verhalen heeft dan zij kennen.' Hilary Mantel",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=P_qGEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=P_qGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "industryIdentifiers": [
+          {
+            "identifier": "9789044652512",
+            "type": "ISBN_13"
+          },
+          {
+            "identifier": "9044652516",
+            "type": "ISBN_10"
+          }
+        ],
+        "infoLink": "https://play.google.com/store/books/details?id=P_qGEAAAQBAJ&source=gbs_api",
+        "language": "nl",
+        "maturityRating": "NOT_MATURE",
+        "pageCount": 179,
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.nl/books?id=P_qGEAAAQBAJ&printsec=frontcover&dq=java&hl=&cd=2&source=gbs_api",
+        "printType": "BOOK",
+        "publishedDate": "2022-09-02",
+        "publisher": "Prometheus",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "title": "Aan Java Road"
+      }
+    },
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE",
+        "country": "NL",
+        "embeddable": true,
+        "epub": {
+          "acsTokenLink": "http://books.google.nl/books/download/Java-sample-epub.acsm?id=RCxeEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api",
+          "isAvailable": true
+        },
+        "pdf": {
+          "acsTokenLink": "http://books.google.nl/books/download/Java-sample-pdf.acsm?id=RCxeEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api",
+          "isAvailable": true
+        },
+        "publicDomain": false,
+        "quoteSharingAllowed": false,
+        "textToSpeechPermission": "ALLOWED",
+        "viewability": "PARTIAL",
+        "webReaderLink": "http://play.google.com/books/reader?id=RCxeEAAAQBAJ&hl=&source=gbs_api"
+      },
+      "etag": "ZiIzQNBoycw",
+      "id": "RCxeEAAAQBAJ",
+      "kind": "books#volume",
+      "saleInfo": {
+        "buyLink": "https://play.google.com/store/books/details?id=RCxeEAAAQBAJ&rdid=book-RCxeEAAAQBAJ&rdot=1&source=gbs_api",
+        "country": "NL",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.99,
+          "currencyCode": "EUR"
+        },
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1.499E7,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 1.499E7,
+              "currencyCode": "EUR"
+            }
+          }
+        ],
+        "retailPrice": {
+          "amount": 14.99,
+          "currencyCode": "EUR"
+        },
+        "saleability": "FOR_SALE"
+      },
+      "searchInfo": {
+        "textSnippet": "In Java duikt bestsellerauteur Maureen Tan nog dieper in de Indonesische keuken."
+      },
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RCxeEAAAQBAJ",
+      "volumeInfo": {
+        "allowAnonLogging": false,
+        "authors": [
+          "Maureen Tan"
+        ],
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RCxeEAAAQBAJ",
+        "categories": [
+          "Cooking"
+        ],
+        "contentVersion": "1.46.29.0.preview.3",
+        "description": "In Java duikt bestsellerauteur Maureen Tan nog dieper in de Indonesische keuken. De Javaanse keuken is die van haar ouders; het is de keuken waar ze mee is opgegroeid. 'Eten is bij ons in de familie ontzettend belangrijk. Al mijn familieherinneringen zijn eraan verbonden.' De Javaanse keuken is in te delen in drie gebieden: de West-Javaanse keuken. De West-Javaanse keuken is friszuur en pittig. In MiddenJava eten ze een stuk zoeter maar ook iets minder pikant. In OostJava is de keuken juist weer pikant en erg hartig, doordat er veel trassi en petis udang worden gebruikt.",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RCxeEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RCxeEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "industryIdentifiers": [
+          {
+            "identifier": "9789048862610",
+            "type": "ISBN_13"
+          },
+          {
+            "identifier": "9048862612",
+            "type": "ISBN_10"
+          }
+        ],
+        "infoLink": "https://play.google.com/store/books/details?id=RCxeEAAAQBAJ&source=gbs_api",
+        "language": "nl",
+        "maturityRating": "NOT_MATURE",
+        "pageCount": 338,
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.nl/books?id=RCxeEAAAQBAJ&printsec=frontcover&dq=java&hl=&cd=3&source=gbs_api",
+        "printType": "BOOK",
+        "publishedDate": "2022-05-25",
+        "publisher": "Overamstel Uitgevers",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "title": "Java"
+      }
+    },
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE",
+        "country": "NL",
+        "embeddable": true,
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "publicDomain": false,
+        "quoteSharingAllowed": false,
+        "textToSpeechPermission": "ALLOWED",
+        "viewability": "PARTIAL",
+        "webReaderLink": "http://play.google.com/books/reader?id=glVlEAAAQBAJ&hl=&source=gbs_api"
+      },
+      "etag": "j2qwXwsKB9k",
+      "id": "glVlEAAAQBAJ",
+      "kind": "books#volume",
+      "saleInfo": {
+        "country": "NL",
+        "isEbook": false,
+        "saleability": "NOT_FOR_SALE"
+      },
+      "searchInfo": {
+        "textSnippet": "Rick Honings, ‘Eene stalen ziel in een metaal ligchaam’. De reis van N.W. Schmal, vrijwillige jager te paard op Java Sylvia van Zanen &amp; Andreas Weber, Schreeuwende apen, zingende vogels en fluitende kogels."
+      },
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/glVlEAAAQBAJ",
+      "volumeInfo": {
+        "allowAnonLogging": false,
+        "authors": [
+          "Rick Honings"
+        ],
+        "canonicalVolumeLink": "https://books.google.com/books/about/Op_reis_in_Nederlands_Indi%C3%AB.html?hl=&id=glVlEAAAQBAJ",
+        "categories": [
+          "History"
+        ],
+        "contentVersion": "0.0.1.0.preview.0",
+        "description": "Rick Honings, ‘Eene stalen ziel in een metaal ligchaam’. De reis van N.W. Schmal, vrijwillige jager te paard op Java Sylvia van Zanen & Andreas Weber, Schreeuwende apen, zingende vogels en fluitende kogels. Natuuronderzoek op Sumatra in oorlogstijd (1833-1834) Mikko Toivanen, Kinderen van het imperium. Corry en Hugo Loudon op reis naar Indië in 1871-1872 Emma Hooghwinkel, Beladen erfgoed in Batavia. Vier reizigers over imperialisme en (anti)kolonialisme tijdens het interbellum Nick Tomberge, Herbergen en hotels, pensions en pasanggrahans. Europese accommodaties in Nederlands-Indië",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=glVlEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=glVlEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "industryIdentifiers": [
+          {
+            "identifier": "9789087049782",
+            "type": "ISBN_13"
+          },
+          {
+            "identifier": "9087049781",
+            "type": "ISBN_10"
+          }
+        ],
+        "infoLink": "http://books.google.nl/books?id=glVlEAAAQBAJ&dq=java&hl=&source=gbs_api",
+        "language": "nl",
+        "maturityRating": "NOT_MATURE",
+        "pageCount": 116,
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.nl/books?id=glVlEAAAQBAJ&printsec=frontcover&dq=java&hl=&cd=4&source=gbs_api",
+        "printType": "BOOK",
+        "publishedDate": "2022-03-22",
+        "publisher": "Uitgeverij Verloren",
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "subtitle": "Indische Letteren 36 (2021) 4",
+        "title": "Op reis in Nederlands-Indië"
+      }
+    },
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE",
+        "country": "NL",
+        "embeddable": true,
+        "epub": {
+          "acsTokenLink": "http://books.google.nl/books/download/Van_Slaaf_tot_Vorst_Historisch_Romantisc-sample-epub.acsm?id=49BdEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api",
+          "isAvailable": true
+        },
+        "pdf": {
+          "acsTokenLink": "http://books.google.nl/books/download/Van_Slaaf_tot_Vorst_Historisch_Romantisc-sample-pdf.acsm?id=49BdEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api",
+          "isAvailable": true
+        },
+        "publicDomain": false,
+        "quoteSharingAllowed": false,
+        "textToSpeechPermission": "ALLOWED",
+        "viewability": "PARTIAL",
+        "webReaderLink": "http://play.google.com/books/reader?id=49BdEAAAQBAJ&hl=&source=gbs_api"
+      },
+      "etag": "JFVIBcj70YE",
+      "id": "49BdEAAAQBAJ",
+      "kind": "books#volume",
+      "saleInfo": {
+        "buyLink": "https://play.google.com/store/books/details?id=49BdEAAAQBAJ&rdid=book-49BdEAAAQBAJ&rdot=1&source=gbs_api",
+        "country": "NL",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.99,
+          "currencyCode": "EUR"
+        },
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1990000.0,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 1990000.0,
+              "currencyCode": "EUR"
+            }
+          }
+        ],
+        "retailPrice": {
+          "amount": 1.99,
+          "currencyCode": "EUR"
+        },
+        "saleability": "FOR_SALE"
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Van Slaaf tot Vorst: Historisch Romantische Schets uit de Geschiedenis van Java&quot; van Van Java Melati."
+      },
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/49BdEAAAQBAJ",
+      "volumeInfo": {
+        "allowAnonLogging": false,
+        "authors": [
+          "Van Java Melati"
+        ],
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=49BdEAAAQBAJ",
+        "categories": [
+          "Fiction"
+        ],
+        "contentVersion": "1.3.3.0.preview.3",
+        "description": "\"Van Slaaf tot Vorst: Historisch Romantische Schets uit de Geschiedenis van Java\" van Van Java Melati. Gepubliceerd door Good Press. Good Press publiceert een ruim aanbod aan titels in alle genres. Van bekende klassiekers & literaire fictie en non-fictie tot vergeten−of nog niet-ontdekte pronkstukken−van de wereldliteratuur, wij publiceren boeken die u beslist moet lezen. Iedere Good Press editie is zorgvuldig aangepast en geformatteerd om de leesbaarheid voor alle e-lezers en apparaten te verbeteren. Ons doel is om e-books te maken die gebruiksvriendelijk en toegankelijk voor iedereen zijn in een digitaal formaat van een hoogwaardige kwaliteit.",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=49BdEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=49BdEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "industryIdentifiers": [
+          {
+            "identifier": "EAN:4064066405182",
+            "type": "OTHER"
+          }
+        ],
+        "infoLink": "https://play.google.com/store/books/details?id=49BdEAAAQBAJ&source=gbs_api",
+        "language": "nl",
+        "maturityRating": "NOT_MATURE",
+        "pageCount": 584,
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.nl/books?id=49BdEAAAQBAJ&printsec=frontcover&dq=java&hl=&cd=5&source=gbs_api",
+        "printType": "BOOK",
+        "publishedDate": "2022-02-09",
+        "publisher": "Good Press",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "title": "Van Slaaf tot Vorst: Historisch Romantische Schets uit de Geschiedenis van Java"
+      }
+    },
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE",
+        "country": "NL",
+        "embeddable": true,
+        "epub": {
+          "acsTokenLink": "http://books.google.nl/books/download/De_bijbel_van_de_Indonesische_keuken-sample-epub.acsm?id=opbSDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api",
+          "isAvailable": true
+        },
+        "pdf": {
+          "acsTokenLink": "http://books.google.nl/books/download/De_bijbel_van_de_Indonesische_keuken-sample-pdf.acsm?id=opbSDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api",
+          "isAvailable": true
+        },
+        "publicDomain": false,
+        "quoteSharingAllowed": false,
+        "textToSpeechPermission": "ALLOWED",
+        "viewability": "PARTIAL",
+        "webReaderLink": "http://play.google.com/books/reader?id=opbSDwAAQBAJ&hl=&source=gbs_api"
+      },
+      "etag": "5o5B1d4Yl2M",
+      "id": "opbSDwAAQBAJ",
+      "kind": "books#volume",
+      "saleInfo": {
+        "buyLink": "https://play.google.com/store/books/details?id=opbSDwAAQBAJ&rdid=book-opbSDwAAQBAJ&rdot=1&source=gbs_api",
+        "country": "NL",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.99,
+          "currencyCode": "EUR"
+        },
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1.499E7,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 1.499E7,
+              "currencyCode": "EUR"
+            }
+          }
+        ],
+        "retailPrice": {
+          "amount": 14.99,
+          "currencyCode": "EUR"
+        },
+        "saleability": "FOR_SALE"
+      },
+      "searchInfo": {
+        "textSnippet": "Van saté kambing tot gado gado en van soto ayam tot rendang: in De bijbel van de Indonesische keuken neemt Maureen Tan je mee naar alle uithoeken van de Indonesische archipel."
+      },
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/opbSDwAAQBAJ",
+      "volumeInfo": {
+        "allowAnonLogging": true,
+        "authors": [
+          "Maureen Tan"
+        ],
+        "averageRating": 4.0,
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=opbSDwAAQBAJ",
+        "categories": [
+          "Cooking"
+        ],
+        "contentVersion": "1.1.1.0.preview.3",
+        "description": "Van saté kambing tot gado gado en van soto ayam tot rendang: in De bijbel van de Indonesische keuken neemt Maureen Tan je mee naar alle uithoeken van de Indonesische archipel. Een smakelijke reis langs de bijzondere en verrassende eilandkeukens van Sumatra, Kalimantan, West-Java, Midden-Java, Oost-Java, Bali, de Kleine Soenda-eilanden, Sulawesi en Papoea.",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=opbSDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=opbSDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "industryIdentifiers": [
+          {
+            "identifier": "9789048853823",
+            "type": "ISBN_13"
+          },
+          {
+            "identifier": "9048853826",
+            "type": "ISBN_10"
+          }
+        ],
+        "infoLink": "https://play.google.com/store/books/details?id=opbSDwAAQBAJ&source=gbs_api",
+        "language": "nl",
+        "maturityRating": "NOT_MATURE",
+        "pageCount": 498,
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.nl/books?id=opbSDwAAQBAJ&printsec=frontcover&dq=java&hl=&cd=6&source=gbs_api",
+        "printType": "BOOK",
+        "publishedDate": "2020-04-24",
+        "publisher": "Overamstel Uitgevers",
+        "ratingsCount": 1,
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "title": "De bijbel van de Indonesische keuken"
+      }
+    },
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE",
+        "country": "NL",
+        "embeddable": true,
+        "epub": {
+          "acsTokenLink": "http://books.google.nl/books/download/Bloedsteen-sample-epub.acsm?id=9oDRDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api",
+          "isAvailable": true
+        },
+        "pdf": {
+          "acsTokenLink": "http://books.google.nl/books/download/Bloedsteen-sample-pdf.acsm?id=9oDRDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api",
+          "isAvailable": true
+        },
+        "publicDomain": false,
+        "quoteSharingAllowed": false,
+        "textToSpeechPermission": "ALLOWED",
+        "viewability": "PARTIAL",
+        "webReaderLink": "http://play.google.com/books/reader?id=9oDRDwAAQBAJ&hl=&source=gbs_api"
+      },
+      "etag": "vjZ/772dsok",
+      "id": "9oDRDwAAQBAJ",
+      "kind": "books#volume",
+      "saleInfo": {
+        "buyLink": "https://play.google.com/store/books/details?id=9oDRDwAAQBAJ&rdid=book-9oDRDwAAQBAJ&rdot=1&source=gbs_api",
+        "country": "NL",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "EUR"
+        },
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000.0,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000.0,
+              "currencyCode": "EUR"
+            }
+          }
+        ],
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "EUR"
+        },
+        "saleability": "FOR_SALE"
+      },
+      "searchInfo": {
+        "textSnippet": "WINNAAR VAN DE GOUDEN STROP 2021 Op een ochtend wordt Ella nietsvermoedend van haar bed gelicht door de politie."
+      },
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9oDRDwAAQBAJ",
+      "volumeInfo": {
+        "allowAnonLogging": true,
+        "authors": [
+          "Bernice Berkleef"
+        ],
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9oDRDwAAQBAJ",
+        "categories": [
+          "Fiction"
+        ],
+        "contentVersion": "1.4.5.0.preview.3",
+        "description": "Op een ochtend wordt Ella nietsvermoedend van haar bed gelicht door de politie. Ze wordt verhoord over haar vader, hij zou illegaal goederen van Java naar Nederland hebben gesmokkeld. Als haar vader, die vroeger in een Jappenkamp heeft gezeten, in hechtenis overlijdt besluit Ella zelf naar Java af te reizen om in hun familiehuis tot rust te komen. In het huis vindt ze aanwijzingen voor een geheim dat haar vader heeft weten te verbergen. Maar ze is niet de enige die lucht heeft gekregen van de verborgen geschiedenis, want haar verblijf op het eiland neemt een zeer onaangename wending...",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9oDRDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9oDRDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "industryIdentifiers": [
+          {
+            "identifier": "9789044354935",
+            "type": "ISBN_13"
+          },
+          {
+            "identifier": "9044354930",
+            "type": "ISBN_10"
+          }
+        ],
+        "infoLink": "https://play.google.com/store/books/details?id=9oDRDwAAQBAJ&source=gbs_api",
+        "language": "nl",
+        "maturityRating": "NOT_MATURE",
+        "pageCount": 256,
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.nl/books?id=9oDRDwAAQBAJ&printsec=frontcover&dq=java&hl=&cd=7&source=gbs_api",
+        "printType": "BOOK",
+        "publishedDate": "2020-04-14",
+        "publisher": "Overamstel Uitgevers",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "title": "Bloedsteen"
+      }
+    },
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE",
+        "country": "NL",
+        "embeddable": true,
+        "epub": {
+          "acsTokenLink": "http://books.google.nl/books/download/Tab%C3%A9_Java_tab%C3%A9_Indi%C3%AB-sample-epub.acsm?id=VI-KDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api",
+          "isAvailable": true
+        },
+        "pdf": {
+          "acsTokenLink": "http://books.google.nl/books/download/Tab%C3%A9_Java_tab%C3%A9_Indi%C3%AB-sample-pdf.acsm?id=VI-KDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api",
+          "isAvailable": true
+        },
+        "publicDomain": false,
+        "quoteSharingAllowed": false,
+        "textToSpeechPermission": "ALLOWED",
+        "viewability": "PARTIAL",
+        "webReaderLink": "http://play.google.com/books/reader?id=VI-KDgAAQBAJ&hl=&source=gbs_api"
+      },
+      "etag": "bHVK7TvCZss",
+      "id": "VI-KDgAAQBAJ",
+      "kind": "books#volume",
+      "saleInfo": {
+        "buyLink": "https://play.google.com/store/books/details?id=VI-KDgAAQBAJ&rdid=book-VI-KDgAAQBAJ&rdot=1&source=gbs_api",
+        "country": "NL",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "EUR"
+        },
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000.0,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000.0,
+              "currencyCode": "EUR"
+            }
+          }
+        ],
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "EUR"
+        },
+        "saleability": "FOR_SALE"
+      },
+      "searchInfo": {
+        "textSnippet": "Waarom zweeg een hele generatie Indiëgangers? En wat zien we, als het zwijgen met verhalen gevuld wordt? Over Tabé Java, Tabé Indië: &#39;Goed geschreven en boeiend boek. Prachtig.&#39; - Boudewijn de Groot"
+      },
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VI-KDgAAQBAJ",
+      "volumeInfo": {
+        "allowAnonLogging": true,
+        "authors": [
+          "Ronald Nijboer"
+        ],
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=VI-KDgAAQBAJ",
+        "categories": [
+          "History"
+        ],
+        "contentVersion": "1.3.4.0.preview.3",
+        "description": "In 1945 melden duizenden Nederlandse jongens zich aan als oorlogsvrijwilliger om 'onze Rijksgenoten in Indië te bevrijden'. Evert-Jan Nijboer, een boerenzoon met weinig toekomstperspectief en veel idealen, geeft zich op. Hoopvol begint hij aan zijn avontuur, en aan zijn dagboek. De heenreis leest als een jongensboek, maar eenmaal op Java verandert de toon. Hij ziet vrienden sneuvelen, fotografeert massagraven en redt duizenden Javanen van een verbrandingsdood. De reis ontwikkelt zich tot een survivor's story. Bij thuiskomst zwijgt Evert-Jan, zoals zovelen. Zeventig jaar later reist kleinzoon Ronald Nijboer zijn opa achterna, met diens dagboek in de hand. Hij onderzoekt het lot van de oorlogsvrijwilligers, die altijd een status aparte hielden. Waarom zweeg een hele generatie Indiëgangers? En wat zien we, als het zwijgen met verhalen gevuld wordt? Over Tabé Java, Tabé Indië: 'Goed geschreven en boeiend boek. Prachtig.' - Boudewijn de Groot",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VI-KDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VI-KDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "industryIdentifiers": [
+          {
+            "identifier": "9789402752731",
+            "type": "ISBN_13"
+          },
+          {
+            "identifier": "9402752730",
+            "type": "ISBN_10"
+          }
+        ],
+        "infoLink": "https://play.google.com/store/books/details?id=VI-KDgAAQBAJ&source=gbs_api",
+        "language": "nl",
+        "maturityRating": "NOT_MATURE",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.nl/books?id=VI-KDgAAQBAJ&printsec=frontcover&dq=java&hl=&cd=8&source=gbs_api",
+        "printType": "BOOK",
+        "publishedDate": "2017-08-08",
+        "publisher": "HarperCollins",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "subtitle": "de koloniale oorlog van mijn opa",
+        "title": "Tabé Java, tabé Indië"
+      }
+    },
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE",
+        "country": "NL",
+        "embeddable": true,
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "acsTokenLink": "http://books.google.nl/books/download/Programmeren_In_Java_Met_Greenfoot-sample-pdf.acsm?id=ET1wgI439uEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api",
+          "isAvailable": true
+        },
+        "publicDomain": false,
+        "quoteSharingAllowed": false,
+        "textToSpeechPermission": "ALLOWED",
+        "viewability": "PARTIAL",
+        "webReaderLink": "http://play.google.com/books/reader?id=ET1wgI439uEC&hl=&source=gbs_api"
+      },
+      "etag": "JIX7tng6bEY",
+      "id": "ET1wgI439uEC",
+      "kind": "books#volume",
+      "saleInfo": {
+        "country": "NL",
+        "isEbook": false,
+        "saleability": "NOT_FOR_SALE"
+      },
+      "searchInfo": {
+        "textSnippet": "Concept : De klassenbibliotheek van <b>Java</b> is een grote verzameling kanten - klare klassen die een integraal onderdeel van het <b>Java</b> - systeem is . We kunnen deze klassen gebruiken door gebruik te maken van een import - statement ."
+      },
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ET1wgI439uEC",
+      "volumeInfo": {
+        "allowAnonLogging": false,
+        "authors": [
+          "Michael Kölling"
+        ],
+        "canonicalVolumeLink": "https://books.google.com/books/about/Programmeren_In_Java_Met_Greenfoot.html?hl=&id=ET1wgI439uEC",
+        "contentVersion": "0.1.3.0.preview.1",
+        "description": "Met dit boek leer je hoe je grafische computerprogramma's programmeert met behulp van Java en de ontwikkelomgeving Greenfoot.",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ET1wgI439uEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ET1wgI439uEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "industryIdentifiers": [
+          {
+            "identifier": "9043018791",
+            "type": "ISBN_10"
+          },
+          {
+            "identifier": "9789043018791",
+            "type": "ISBN_13"
+          }
+        ],
+        "infoLink": "http://books.google.nl/books?id=ET1wgI439uEC&dq=java&hl=&source=gbs_api",
+        "language": "nl",
+        "maturityRating": "NOT_MATURE",
+        "pageCount": 236,
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.nl/books?id=ET1wgI439uEC&pg=PA96&dq=java&hl=&cd=9&source=gbs_api",
+        "printType": "BOOK",
+        "publishedDate": "2011",
+        "publisher": "Pearson Education",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "title": "Programmeren In Java Met Greenfoot"
+      }
+    },
+    {
+      "accessInfo": {
+        "accessViewStatus": "SAMPLE",
+        "country": "NL",
+        "embeddable": true,
+        "epub": {
+          "acsTokenLink": "http://books.google.nl/books/download/De_tolk_van_Java-sample-epub.acsm?id=Ifo4DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api",
+          "isAvailable": true
+        },
+        "pdf": {
+          "acsTokenLink": "http://books.google.nl/books/download/De_tolk_van_Java-sample-pdf.acsm?id=Ifo4DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api",
+          "isAvailable": true
+        },
+        "publicDomain": false,
+        "quoteSharingAllowed": false,
+        "textToSpeechPermission": "ALLOWED",
+        "viewability": "PARTIAL",
+        "webReaderLink": "http://play.google.com/books/reader?id=Ifo4DwAAQBAJ&hl=&source=gbs_api"
+      },
+      "etag": "Rvpz9BIjO8o",
+      "id": "Ifo4DwAAQBAJ",
+      "kind": "books#volume",
+      "saleInfo": {
+        "buyLink": "https://play.google.com/store/books/details?id=Ifo4DwAAQBAJ&rdid=book-Ifo4DwAAQBAJ&rdot=1&source=gbs_api",
+        "country": "NL",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 11.99,
+          "currencyCode": "EUR"
+        },
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1.199E7,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 1.199E7,
+              "currencyCode": "EUR"
+            }
+          }
+        ],
+        "retailPrice": {
+          "amount": 11.99,
+          "currencyCode": "EUR"
+        },
+        "saleability": "FOR_SALE"
+      },
+      "searchInfo": {
+        "textSnippet": "Voor een Helmondse schoenmakersdochter, een Indische voormalige oorlogstolk en hun zoon – de verteller – bestaat er geen heden."
+      },
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ifo4DwAAQBAJ",
+      "volumeInfo": {
+        "allowAnonLogging": true,
+        "authors": [
+          "Alfred Birney"
+        ],
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Ifo4DwAAQBAJ",
+        "categories": [
+          "Fiction"
+        ],
+        "contentVersion": "1.1.1.0.preview.3",
+        "description": "Voor een Helmondse schoenmakersdochter, een Indische voormalige oorlogstolk en hun zoon – de verteller – bestaat er geen heden. Er is alleen een belast verleden: de jeugd van de moeder tijdens de Tweede Wereldoorlog in Brabant; de jeugd van de vader, die na de oorlog van Oost-Java naar Nederland vlucht; en de jeugd van de verteller die, geterroriseerd door zijn paranoïde vader, zijn tienerjaren op een internaat doorbrengt. Jarenlang zal hij zijn ouders achtervolgen met vragen over de oorlog, die ook hij als een zware last met zich meedraagt. Hun verhalen zijn spannend, hilarisch, gruwelijk, treurig en rauw. Hun onderlinge verhouding is afwijkend: ze zijn eerder tot elkaar veroordeeld dan dat ze een liefhebbende band hebben, met de herinnering als hun gezamenlijke vijand.",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Ifo4DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Ifo4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "industryIdentifiers": [
+          {
+            "identifier": "9789044536454",
+            "type": "ISBN_13"
+          },
+          {
+            "identifier": "9044536451",
+            "type": "ISBN_10"
+          }
+        ],
+        "infoLink": "https://play.google.com/store/books/details?id=Ifo4DwAAQBAJ&source=gbs_api",
+        "language": "nl",
+        "maturityRating": "NOT_MATURE",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "previewLink": "http://books.google.nl/books?id=Ifo4DwAAQBAJ&printsec=frontcover&dq=java&hl=&cd=10&source=gbs_api",
+        "printType": "BOOK",
+        "publishedDate": "2016-03-14",
+        "publisher": "Singel Uitgeverijen",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "title": "De tolk van Java"
+      }
+    }
+  ],
+  "kind": "books#volumes",
+  "totalItems": 770
+}
