@@ -11,3 +11,5 @@ The api is documented according to the OpenAPI specification. Currently the swag
 There are two ways to run the book api
 1. mvn run:springboot (or mvn test to run the test)
 2. docker build . --tag topbooks && docker run -d -p 8080:8080 topbooks
+
+When its running goto http://localhost:8080/swagger-ui/index.html in a browser 
