@@ -20,7 +20,7 @@ public class BookResponse {
 
     public BookResponse(VolumeInfo volumeInfo) {
         title = volumeInfo.getTitle();
-        isbn = volumeInfo.getIndustryIdentifiers() != null ? volumeInfo.getIndustryIdentifiers().stream().filter(industryIdentifiers -> industryIdentifiers.getType().equals("ISBN_13")).map(industryIdentifiers -> industryIdentifiers.getIdentifier()).findFirst().orElse("") : "";
+        isbn = getIsbn13(volumeInfo);
         authors = volumeInfo.getAuthors();
         try {
             publicatieDatum = LocalDate.parse(volumeInfo.getPublishedDate()).format(formatter);
@@ -28,6 +28,12 @@ public class BookResponse {
             //sometimes these dates are not parseable; as fallback we return the original value
             publicatieDatum = volumeInfo.getPublishedDate();
         }
+    }
+
+    private static String getIsbn13(VolumeInfo volumeInfo) {
+        if(volumeInfo.getIndustryIdentifiers()==null)
+            return "";
+        return volumeInfo.getIndustryIdentifiers().stream().filter(industryIdentifiers -> industryIdentifiers.getType().equals("ISBN_13")).map(industryIdentifiers -> industryIdentifiers.getIdentifier()).findFirst().orElse("");
     }
 
 }
