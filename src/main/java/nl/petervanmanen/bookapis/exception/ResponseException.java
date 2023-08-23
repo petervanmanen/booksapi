@@ -3,7 +3,7 @@ package nl.petervanmanen.bookapis.exception;
 import org.springframework.http.HttpStatus;
 
 public class ResponseException extends RuntimeException {
-    HttpStatus httpstatus;
+    private final HttpStatus httpstatus;
 
     public ResponseException(String message, HttpStatus httpstatus) {
         super(message);

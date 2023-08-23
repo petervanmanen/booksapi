@@ -15,22 +15,21 @@ import java.security.GeneralSecurityException;
 
 @Service
 @Log
-public class GooglebookServiceImpl implements GoogleBookService {
+public class GoogleBookServiceImpl implements GoogleBookService {
 
     public static final String BOOK_API = "BookApi";
     public static final String NEWEST = "newest";
     public static final long MAX_RESULTS = 10L;
 
     @Override
-
     public Volumes getVolumes(@NonNull String query, String language) {
-        Books books = null;
         try {
-            books = new Books.Builder(GoogleNetHttpTransport.newTrustedTransport(), JacksonFactory.getDefaultInstance(), null).setApplicationName(BOOK_API).build();
+            Books books = new Books.Builder(GoogleNetHttpTransport.newTrustedTransport(), JacksonFactory.getDefaultInstance(), null).setApplicationName(BOOK_API).build();
             Books.Volumes.List list = books.volumes().list(query);
             list.setLangRestrict(language);
             list.setOrderBy(NEWEST);
             list.setMaxResults(MAX_RESULTS);
+            list.setPrintType("books");
             Volumes execution = list.execute();
             return execution;
         } catch (GeneralSecurityException e) {
