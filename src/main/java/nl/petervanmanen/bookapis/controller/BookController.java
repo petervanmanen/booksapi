@@ -2,8 +2,10 @@ package nl.petervanmanen.bookapis.controller;
 
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.Parameter;
+import io.swagger.v3.oas.annotations.media.PatternProperty;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
 import io.swagger.v3.oas.annotations.responses.ApiResponses;
+import jakarta.validation.constraints.Pattern;
 import lombok.extern.java.Log;
 import nl.petervanmanen.bookapis.exception.ResponseException;
 import nl.petervanmanen.bookapis.model.BookResponse;
@@ -28,7 +30,7 @@ public class BookController {
             @ApiResponse(responseCode = "503", description = "The API malfunctioned"),
             @ApiResponse(responseCode = "400", description = "The requestobject was invalid")
     })
-    public List<BookResponse> getBooks(@Parameter(description = "Text to search for") String query, @Parameter(description = " ISO 639-1 language code filter(lowercase 2 char like \'en\'") @RequestParam(required = false) String language) {
+    public List<BookResponse> getBooks(@Parameter(description = "Text to search for") String query,@Pattern(regexp = "^[a-z]{2}$") @Parameter(description = " ISO 639-1 language code filter(2 lowercase letters like \'en\'") @RequestParam(required = false) String language) {
         return bookService.getBooks(query, language);
     }
 
